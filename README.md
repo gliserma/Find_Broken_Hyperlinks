@@ -1,7 +1,7 @@
 # Broken Links Webcrawler
 Developed to identify broken links on website for
 the Gilder Lehrman Insitute of American History. 
-This could easily be adopted to search other websites 
+This could easily be adapted to search other websites 
 by modifying the domain and start url parameters.
 
 ## Implementation.
